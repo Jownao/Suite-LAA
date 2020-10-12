@@ -115,11 +115,7 @@
                                                 </RadioButton>
                                                 <RadioButton fx:id="radioBubble" mnemonicParsing="false" text="Bubble" toggleGroup="$sort" />
                                                 <RadioButton fx:id="radioSelection" mnemonicParsing="false" text="Selection" toggleGroup="$sort" />
-                                                <RadioButton fx:id="radioMerge" mnemonicParsing="false" text="Merge">
-                                                   <toggleGroup>
-                                                      <ToggleGroup fx:id="sort1" />
-                                                   </toggleGroup>
-                                                </RadioButton>
+                                                <RadioButton fx:id="radioMerge" mnemonicParsing="false" text="Merge" toggleGroup="$sort" />
                                              </children>
                                           </VBox>
                                           <Button fx:id="btnOrdenar" mnemonicParsing="false" onAction="#ordenar" text="Ordenar" />
