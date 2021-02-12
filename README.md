@@ -1,5 +1,5 @@
 # Suite-LAA
-Atividade de implementação de Interface GUI.
+Atividade de implementação de Interface GUI. Laboratório de Análise de Algoritimo
 
 Implementação feita na linguagem java com utilização do JavaFX com a ferramenta Scenebuilder.
 
